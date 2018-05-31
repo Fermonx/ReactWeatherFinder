@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #2a386d;
+  height: 80px;
+  padding: 20px;
+  color: white;
+  font-size: 1em;
+}
+
+.tempTitle
+{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-bottom: 0.3em;
+}
+
+.windTitle
+{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 12px;
+    padding-bottom: 0.2em;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.box1
+{
+    box-sizing: border-box;
+    -webkit-box-shadow: inset 0px 1px 14px 3px rgba(87,84,87,0.48);
+    -moz-box-shadow: inset 0px 1px 14px 3px rgba(87,84,87,0.48);
+    box-shadow: inset 0px 1px 14px 3px rgba(87,84,87,0.48);
+
+}
+
+.box2
+{
+    margin-top: 4em;
+    -webkit-box-shadow: inset 0px 1px 14px 3px rgba(87,84,87,0.48);
+    -moz-box-shadow: inset 0px 1px 14px 3px rgba(87,84,87,0.48);
+    box-shadow: inset 0px 1px 14px 3px rgba(87,84,87,0.48);
+}
+
+.humidValue
+{
+    font-size: 25px;
+}
+
+.cityspacing
+{
+    margin-top: 30px;
+}
+
+.inputSize
+{
+    font-size: 30px;
+}
+
+.line
+{
+    color: black;
+    border-top-width: 2px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
