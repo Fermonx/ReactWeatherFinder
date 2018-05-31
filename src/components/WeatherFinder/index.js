@@ -3,7 +3,7 @@ import Index from './Location/index';
 import WeatherFind from './WeatherData/index';
 
 const location = 'Valencia, Es';
-const api_key = 'd726d03be10cf4fcb38c67ef55b9f2dd';
+const api_key = '';
 const api_weather = `http://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${api_key}`;
 
 navigator.geolocation.getCurrentPosition(function(position) {
